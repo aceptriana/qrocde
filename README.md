@@ -7,3 +7,6 @@ cd qrcode
 pip install qrcode
 python qrcode.my
 ```
+
+result di folder Gambar
+- ex : Gambar/qrcode_1.png
